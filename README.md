@@ -2,7 +2,7 @@
 
 ## Description 
 This project was created to practice using GitHub.
-- [PROJECT TITLE](Project-Title)
+- [CLICK ME](Practice-Heading)
 ## Tools
 - GitHub  
 - Markdown  
@@ -17,4 +17,5 @@ There is no program to run for this.
 ## Additional Information
 This repository was created for academic purposes. All work was completed following course guidelines, and GitHub is being used as a learning tool to understand version control and project documentation.
 
-## Project Title
+## Practice Heading
+hi!
