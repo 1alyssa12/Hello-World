@@ -2,8 +2,8 @@
 
 ## Description 
 This project was created to practice using GitHub.
-
-## Tools Used
+- [PROJECT TITLE](Project-Title)
+## Tools
 - GitHub  
 - Markdown  
 - Web Browser (Chrome)
@@ -17,4 +17,4 @@ There is no program to run for this.
 ## Additional Information
 This repository was created for academic purposes. All work was completed following course guidelines, and GitHub is being used as a learning tool to understand version control and project documentation.
 
-## Heading
+## Project Title
